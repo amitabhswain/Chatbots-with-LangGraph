@@ -1,4 +1,4 @@
-# Chatbots-with-LangGraph
+# Chatbots with LangGraph
 
 A multi-agent chatbot system built using Langgraph that enables stateful communication between different AI agents. The project demonstrates how to create sophisticated chatbot workflows where multiple specialized agents can collaborate and communicate with each other.
 
